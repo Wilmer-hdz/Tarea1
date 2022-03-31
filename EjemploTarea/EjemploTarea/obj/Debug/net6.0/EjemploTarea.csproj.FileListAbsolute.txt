@@ -1,0 +1,15 @@
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\bin\Debug\net6.0\EjemploTarea.exe
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\bin\Debug\net6.0\EjemploTarea.deps.json
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\bin\Debug\net6.0\EjemploTarea.runtimeconfig.json
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\bin\Debug\net6.0\EjemploTarea.dll
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\bin\Debug\net6.0\EjemploTarea.pdb
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.csproj.AssemblyReference.cache
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.AssemblyInfoInputs.cache
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.AssemblyInfo.cs
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.csproj.CoreCompileInputs.cache
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.dll
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\refint\EjemploTarea.dll
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.pdb
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\EjemploTarea.genruntimeconfig.cache
+C:\Users\WilmerJ\source\repos\EjemploTarea\EjemploTarea\obj\Debug\net6.0\ref\EjemploTarea.dll
